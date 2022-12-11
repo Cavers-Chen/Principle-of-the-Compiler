@@ -1,0 +1,4 @@
+﻿  源.cpp
+d:\桌面\workfiles\codefiles\filing\classworks\compiler principlies and techniques\code\rl_nfa_dfa\rl_nfa_dfa\fa.h(304): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+d:\桌面\workfiles\codefiles\filing\classworks\compiler principlies and techniques\code\rl_nfa_dfa\rl_nfa_dfa\fa.h(188): warning C4715: “NFA_TRAN::LoadExpress”: 不是所有的控件路径都返回值
+  RL_NFA_DFA.vcxproj -> D:\桌面\Workfiles\CodeFiles\Filing\ClassWorks\Compiler Principlies and Techniques\Code\RL_NFA_DFA\x64\Debug\RL_NFA_DFA.exe

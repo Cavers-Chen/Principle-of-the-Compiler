@@ -1,0 +1,9 @@
+﻿  LR(0).cpp
+D:\桌面\LR(0)\LR(0)\LR(0).cpp(64,31): warning C4018: '<': signed/unsigned mismatch
+D:\桌面\LR(0)\LR(0)\LR(0).cpp(206,27): warning C4018: '<': signed/unsigned mismatch
+D:\桌面\LR(0)\LR(0)\LR(0).cpp(239,27): warning C4018: '<': signed/unsigned mismatch
+D:\桌面\LR(0)\LR(0)\LR(0).cpp(253,31): warning C4018: '<': signed/unsigned mismatch
+D:\桌面\LR(0)\LR(0)\LR(0).cpp(287,27): warning C4018: '<': signed/unsigned mismatch
+D:\桌面\LR(0)\LR(0)\LR(0).cpp(349,27): warning C4018: '<': signed/unsigned mismatch
+D:\桌面\LR(0)\LR(0)\LR(0).cpp(274): warning C4715: 'Solver_LR0::getFollow': not all control paths return a value
+  LR(0).vcxproj -> D:\桌面\LR(0)\Debug\LR(0).exe
